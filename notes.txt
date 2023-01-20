@@ -1,0 +1,2 @@
+1. Install dulu library psycopg2
+2. 
